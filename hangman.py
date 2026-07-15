@@ -9,7 +9,7 @@ def rand_word():
 
 
 def hangman():
-    lives = 6
+    lives = 7
     print("\nWelcome to Hangman!")
     print(
         f"\nYou have {lives} lives remaining, either guess the word letter by letter, or guess it all at once!")
